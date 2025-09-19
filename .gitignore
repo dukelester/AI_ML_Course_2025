@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Large Datasets
-projects/data/pollution_us_2000_2016.csv
-
 # Distribution / packaging
 .Python
 build/
