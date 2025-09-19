@@ -65,6 +65,10 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
+
+# Large files
+
+projects/data/pollution_us_2000_2016.csv
 # Scrapy stuff:
 .scrapy
 
